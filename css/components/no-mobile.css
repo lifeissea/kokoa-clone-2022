@@ -23,3 +23,15 @@
     overflow: hidden;
   }
 }
+
+.no-mobile__teemo {
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+}
+
+#no-mobile span {
+  position: relative;
+  color: white;
+  text-shadow: 5px 5px #558abb;
+}
